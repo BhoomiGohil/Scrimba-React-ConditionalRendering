@@ -23,13 +23,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BhoomiGohil/Srimba-React-ConditionalRendering.git
+   git clone https://github.com/BhoomiGohil/Scrimba-React-ConditionalRendering.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Srimba-React-ConditionalRendering
+   cd Scrimba-React-ConditionalRendering
    ```
 
 3. Install dependencies:
